@@ -1,0 +1,7 @@
+{
+  "name": "ZenLock - Ultimate Focus Timer",
+  "description": "A high-performance focus application designed to keep you away from distractions. Features full-screen immersion, movement detection, and AI-powered motivational guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
